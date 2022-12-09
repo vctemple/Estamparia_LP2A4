@@ -1,4 +1,4 @@
-# Projeto da disciplina Linguagem de Programação 2 - IFSP-CJO
+# Projeto Linguagem de Programação 2 - IFSP-CJO
 
 Sistema simulador de um e-commerce de estamparia no formato do Windows Forms.
 
